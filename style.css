@@ -37,7 +37,7 @@
     color: white;
     width: 150px;
 }
-.col-md-3 img{
+.icon-img{
     width: 40%;
 
 }
@@ -47,6 +47,7 @@
     height: 270px;
     padding: 80px 30px;
     text-align: center;
+    margin-bottom: 20px;
 }
 .cat-2{
     background-color: #FFFFFF;
