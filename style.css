@@ -60,13 +60,14 @@
     padding: 20px 40px;
 }
 .card{
-    border-radius: 20px;
+    border-radius: 40px;
     box-shadow: 5px 5px 15px rgb(173, 173, 173);
 }
 .card-footer{
     border-top: none;
     background-color: white;
 }
+
 .calendar-people{
     width: 25px;
 }
